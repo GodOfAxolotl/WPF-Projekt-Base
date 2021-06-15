@@ -1,0 +1,5 @@
+C:\Users\lucal\source\repos\WPFAPPFoundation\WPFAPPFoundation\obj\Debug\net5.0-windows\WPFAPPFoundation.csprojAssemblyReference.cache
+C:\Users\lucal\source\repos\WPFAPPFoundation\WPFAPPFoundation\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lucal\source\repos\WPFAPPFoundation\WPFAPPFoundation\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lucal\source\repos\WPFAPPFoundation\WPFAPPFoundation\obj\Debug\net5.0-windows\WPFAPPFoundation_MarkupCompile.cache
+C:\Users\lucal\source\repos\WPFAPPFoundation\WPFAPPFoundation\obj\Debug\net5.0-windows\WPFAPPFoundation_MarkupCompile.lref
